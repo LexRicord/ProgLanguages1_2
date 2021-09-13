@@ -1,0 +1,21 @@
+﻿Сборка начата 08.09.2021 12:09:30.
+Уровень детализации журнала: Normal.     1>Проект "E:\code\vs\sem2\LP_Asm01\LP_Asm01\LP_Asm01.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\LP_Asm01.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       _MASM:
+         Assembling LP_Asm01.asm...
+         cmd.exe /C "C:\Users\User\AppData\Local\Temp\tmpb7a6874be9ec485188705c6d8435d84e.cmd"
+         ml.exe /c /nologo /EP /Zi /Fo"Debug\LP_Asm01.obj" /W3 /errorReport:prompt  /TaLP_Asm01.asm
+       Link:
+         Для всех выходных данных обновления не требуется.
+         LP_Asm01.vcxproj -> E:\code\vs\sem2\LP_Asm01\Debug\LP_Asm01.exe
+       FinalizeBuildStatus:
+         Файл "Debug\LP_Asm01.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\LP_Asm01.tlog\LP_Asm01.lastbuildstate".
+     1>Сборка проекта "E:\code\vs\sem2\LP_Asm01\LP_Asm01\LP_Asm01.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.90
