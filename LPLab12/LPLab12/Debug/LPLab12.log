@@ -1,0 +1,27 @@
+﻿Сборка начата 28.09.2021 2:26:53.
+Уровень детализации журнала: Normal.     1>Проект "E:\code\vs\sem2\LPLab12\LPLab12\LPLab12.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\LPLab12.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         E:\soft\cash\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:prompt LPLab12.cpp
+         LPLab12.cpp
+     1>E:\code\vs\sem2\LPLab12\LPLab12\LPLab12.cpp(11,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+       Link:
+         E:\soft\cash\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"E:\code\vs\sem2\LPLab12\Debug\LPLab12.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"E:\code\vs\sem2\LPLab12\Debug\LPLab12.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\code\vs\sem2\LPLab12\Debug\LPLab12.lib" /MACHINE:X86 Debug\FST.obj
+         Debug\LPLab12.obj
+         LPLab12.vcxproj -> E:\code\vs\sem2\LPLab12\Debug\LPLab12.exe
+       FinalizeBuildStatus:
+         Файл "Debug\LPLab12.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\LPLab12.tlog\LPLab12.lastbuildstate".
+     1>Сборка проекта "E:\code\vs\sem2\LPLab12\LPLab12\LPLab12.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "E:\code\vs\sem2\LPLab12\LPLab12\LPLab12.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         E:\code\vs\sem2\LPLab12\LPLab12\LPLab12.cpp(11,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:00.61
