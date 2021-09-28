@@ -1,0 +1,36 @@
+Тест: без ошибок 
+
+----------- ПРОТОКОЛ -----------
+ ----------- 28.09.21 13:26:26 -----------
+ 
+ ----------- ПАРАМЕТРЫ ----------- 
+
+-in: E:\code\vs\sem2\LP_Lab13\LP_Lab13\in.txt
+-out: E:\code\vs\sem2\LP_Lab13\LP_Lab13\in.txt.out
+-log: E:\code\vs\sem2\LP_Lab13\LP_Lab13\in.txt.log
+
+----------- ИСХОДНЫЕ ДАННЫЕ -----------
+abbgggg|abcfbg|abbdfbg|abbbbcfbg|abbbbbbefbg|abcfbbbbg|abbbdfbbbg|abbbcfbbbg|abcfdfefbg|
+
+Всего символов: 88
+Всего строк: 6
+Пропущено: 0
+
+Цепочка abbgggg не распознана.
+Номер цепочки:  1. Позиция ошибки в цепочке : 5 
+
+Цепочка abcfbg распознана.
+
+Цепочка abbdfbg распознана.
+
+Цепочка abbbbcfbg распознана.
+
+Цепочка abbbbbbefbg распознана.
+
+Цепочка abcfbbbbg распознана.
+
+Цепочка abbbdfbbbg распознана.
+
+Цепочка abbbcfbbbg распознана.
+
+Цепочка abcfdfefbg распознана.
